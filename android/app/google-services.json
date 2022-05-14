@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848612221764",
+    "project_id": "cis-restaurant",
+    "storage_bucket": "cis-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848612221764:android:87674826f086ecac8aad11",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848612221764-mqhbqfo6ktckvjr6c6e8s105i9of8rvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFFHoZC2tMaIw7GQuJ5-ho-UiokgcDD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848612221764-mqhbqfo6ktckvjr6c6e8s105i9of8rvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
