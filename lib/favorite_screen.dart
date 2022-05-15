@@ -465,6 +465,7 @@ class _FavoriteScreenState extends State<FavoriteScreen> {
                                   color: Colors.red,
                                 ),
                                 onPressed: () {
+                                  isPizzaShown = !isPizzaShown;
                                   setState(() {});
                                 },
                               ),
@@ -573,6 +574,7 @@ class _FavoriteScreenState extends State<FavoriteScreen> {
                                   color: Colors.red,
                                 ),
                                 onPressed: () {
+                                  twoIsPizzaShown = !twoIsPizzaShown;
                                   setState(() {});
                                 },
                               ),
@@ -681,6 +683,7 @@ class _FavoriteScreenState extends State<FavoriteScreen> {
                                   color: Colors.red,
                                 ),
                                 onPressed: () {
+                                  threeIsPizzaShown = !threeIsPizzaShown;
                                   setState(() {});
                                 },
                               ),

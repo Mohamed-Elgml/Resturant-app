@@ -85,7 +85,7 @@ class _firstScreenState extends State<firstScreen> {
             height: 10,
           ),
           Image.network(
-            'https://freepikpsd.com/file/2019/10/logo-pizza-png-3-Transparent-Images.png',
+            'https://images.vexels.com/media/users/3/128438/isolated/preview/fc4ef0da5cb4930c9b05dc18d88beec6-pizza-logos.png',
             height: 220,
           ),
         ],
